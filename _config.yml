@@ -2,10 +2,10 @@
 course_name: CS60112 - Information and System Security
 course_description: "Almost any non-trivial system that exists out there (and that you might build) utilizes some kind of valuable resource, which might be data, intellectual property or physical resources. In addition to utilizing the resource, the system must also ensure that it protects the resource from unintended use."
 
-course_semester: "Spring 2025"
+course_semester: "Spring 2026"
 
-baseurl: "/InfoSec-2025" # the subpath of your site, e.g. /blog/
-url: "https://Kronos-192081.github.io/" # the base hostname & protocol for your site
+baseurl: "/InfoSec-2026" # the subpath of your site, e.g. /blog/
+url: "https://Sukhomay.github.io/" # the base hostname & protocol for your site
 
 schoolname: "CSE, IIT Kharagpur"
 schoolurl: "https://cse.iitkgp.ac.in" 
