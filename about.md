@@ -27,7 +27,7 @@ In this semester we will conduct the course offline with a mix of live lectures,
 
 ## Textbook
 
-There are no specified textbooks. Required readings and study resources will be shared in the [schedule](/InfoSec-2025/schedule) and in [MS Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app). Moreover, we will post interesting readings on the [readings](/InfoSec-2025/readings) tab.
+There are no specified textbooks. Required readings and study resources will be shared in the [schedule](/InfoSec-2026/schedule) and in [MS Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app). Moreover, we will post interesting readings on the [readings](/InfoSec-2026/readings) tab.
 
 ## Coursework
 
@@ -39,7 +39,7 @@ We will update the schedule, readings and MS-Teams regularly throughout the cour
 
 ### Joining MS Teams
 
-Note that you NEED TO join the Microsoft teams classroom titled *“Information and Systems Security 2025 (CS60112)”* for this course. We will also share the recordings (as well as recorded lectures) of the lectures via Microsoft Teams. Drop the instructors an email ASAP if you cannot access the Microsoft teams classroom.
+Note that you NEED TO join the Microsoft teams classroom titled *“Information and Systems Security 2026 (CS60112)”* for this course. We will also share the recordings (as well as recorded lectures) of the lectures via Microsoft Teams. Drop the instructors an email ASAP if you cannot access the Microsoft teams classroom.
 
 We would announce doubt clearing sessions to complement the lecture sessions as we go. Please keep an eye on the schedule and MS Teams channels.
 
