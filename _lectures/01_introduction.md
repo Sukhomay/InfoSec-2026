@@ -1,7 +1,7 @@
----
+<!-- ---
 type: lecture
 date: 2025-01-02T8:00:00+5:30
-title: Introductory Lecture HHHHHHHHHHHHHHH
+title: Introductory Lecture
 thumbnail: /static_files/presentations/lec.jpg
 hide_from_announcments: true
 links: 
@@ -14,4 +14,4 @@ links:
 ---
 <!-- **Suggested Readings:**
 - [Readings 1](http://example.com)
-- [Readings 2](http://example.com) -->
+- [Readings 2](http://example.com) --> -->
