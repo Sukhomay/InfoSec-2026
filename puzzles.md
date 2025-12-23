@@ -8,31 +8,25 @@ We have seen in [Season 3, Episode 1](https://en.wikipedia.org/wiki/Eps3.0_power
 
 Each problem has a **hidden flag** somewhere. A flag is a piece of text. Find the flags and submit them in the Google form link below. Have fun and good luck!
 
-**Google Form** (can only be submitted once): [https://forms.gle/z4yQAgYsoi15d7kw6](https://forms.gle/z4yQAgYsoi15d7kw6)
+**Google Form** (can only be submitted once): [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSfn7bid87YmAIuInAtN7cFWr6Q1rIRcrEUROXbiIZn3zZR1lQ/viewform)
 
-## 1. The Sacred Alien
-Kvkiro jkffu svwfiv Sve, yzj vogivjjzfe lixvek. “Sve, Z evvu pfli yvcg. Gvkifgzr zj ze urexvi, reu fecp pfl tre yvcg jrmv zk.”
+## 1. Hidden. Cryptic. String.
+Qv. Vsfsx lew epaecw pszih libehigmqep. Xs lmq, fewi-16 ryqfivw aivi rsx nywx wcqfspw, fyx e perkyeki jypp sj wigvixw. Psrk eks, li ywih xlex perkyeki xs gviexi e jpek, gevijyppc irgvctxmrk mx ws srpc wsqisri als xvypc yrhivwxssh libehigmqep gsyph vieh mx.Fyx xmqi tewwih, wcwxiqw glerkih, erh Qv. Vsfsx jsvksx xli ibegx aec li irgvctxih mx. Rsa xli jpek viqemrw psgoih filmrh wxvmrkw sj lib zepyiw, qiermrkpiww ex jmvwx kpergi. Li wxeviw ex xli glevegxivw, orsamrk xli erwaiv mw xlivi, lmhhir mr tpemr wmklx. lipt lmq higvctx jpek:{68657861646563696h616g5j69735j617765736j6h65}
 
-Sve irzjvu re vpvsifn. “Nyrk’j xfzex fe, Kvkiro?”
+## 2. Beep. Boop. Binary.
+Mr Robot finally got a [binary file](/static_files/puzzle_files/hackme). Help him find the flag.
 
-Kvkiro’j mfztv xivn kvejv. “Nv evvu kf ivjliivtk Jlxzczkv. Yv’j efk aljk r nriizfi—yv’j r jrtivu rczve reu kyv mvip jpdsfc fw fli gcrevk’j jkivexky. Slk yv’j svve cfjk wfi rxvj, reu efn, Gvkifgzr wrtvj uvjkiltkzfe. Kyv fecp nrp kf sizex yzd srtb zj kyiflxy kyv Jlxzczkvtyifdrjkfev, kyv jrtivu wcrx kyrk yfcuj yzj vjjvetv.”
 
-Sve cffbvu kyflxykwlc. “Jf, pfl evvu dv kf jlddfe yzd ljzex kyv Jlxzczkvtyifdrjkfev?”
+## 3. One Image. One Chance.
+A compromised system.
+A locked terminal. 
+One [image](/static_files/puzzle_files/p3.png) is what left.
 
-Kvkiro efuuvu. “Pvj. Zk’j kyv bvp kf lecftbzex Jlxzczkv’j gfnvi. Nzkyflk yzd, nv riv uvwvejvcvjj. Slk kyviv’j fev dfiv gifscvd—Mzcxro yrj cvrievu fw kyv Jlxzczkvtyifdrjkfev, reu yv gcrej kf ljv zk kf krbv Jlxzczkv’j gfnvi wfi yzdjvcw. Zw kyrk yrggvej, Gvkifgzr nzcc wrcc.”
+In a move straight out of Mr. Robot, Elliot left behind a single distorted image after taking down the system. No text. No logs. No explanation. The engineers believe the passcode isn’t encrypted—
+it’s hidden.
 
-Sve tcvetyvu yzj wzjkj, uvkvidzerkzfe ze yzj vpvj. “Nv nfe’k cvk kyrk yrggve. Z’cc yvcg pfl, Kvkiro. Cvk’j sizex Jlxzczkv srtb reu jrmv Gvkifgzr!”
+Embedded in the image. In plain sight. Waiting for someone who knows how to look.
+No brute force.
+No second chances.
 
-Kvkiro’j wrtv jfwkvevu nzky xirkzkluv. “Kyreb pfl, Sve. Nzky pfli yvcg, nv tre ivjkfiv yfgv kf Gvkifgzr.”
-
-Sve’j mfztv nrj wzccvu nzky tfewzuvetv. “Zk’j Yvif kzdv!” 
-
-## 2. Just pull the strings, ye master of puppets
-Download and play with this [binary](/static_files/puzzle_files/hackme) and find the flag.
-
-## 3. Let the Games Begin
-Grandpa Max has been captured by the evil Vilgax and is held hostage aboard his ship. Before his capture, Grandpa left Ben a cryptic [image](/InfoSec-2025/static_files/puzzle_files/ben10.jpg) containing a vital clue to the ship's passcode.
-
-Decode the hint, capture the bases of Vilgax’s systems, and retrieve the passcode to rescue Grandpa Max before it’s too late!
-
-Are you ready to save the day?
+Find the passcode.
