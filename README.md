@@ -1,3 +1,6 @@
+# Introduction
+This is the website for the course CS60112 - Information and System Security offered by the Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur in Spring 2026.
+
 # Features
 - Individual page for assignments, lectures, course material, course schedule
 - Auto generated Course schedule Page
